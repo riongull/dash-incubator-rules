@@ -361,11 +361,21 @@ If the claim is approved, the Admin will leave a [Claim Approved comment](#435-t
 
 ## 2.5 Price List
 
-Each type of reward for Tasks in the App are listed below along with the min/max amounts of Dash that can be offered and basic criteria upon which claims will be approved.  
+As a pure-Dash fund, the Incubator prices all rewards in Dash and does not handle, convert or peg amounts to other crypto or fiat currencies.
 
-Rewards are fixed, Dash-denominated amounts decided by the Primary Admin in all cases except when the Primary Admin is the user requesting to add, reserve, or claim the task, in which case the amount is decided by the Secondary Admin.  Users may negotiate the amount with the appropriate Admin before requesting a reservation or making a claim (see Section 5 for details).
+Rewards are fixed, Dash-denominated amounts determined by Bounty Admins at Task level when each Task is created.  When the Primary Admin wants to add, reserve, or claim Tasks on their own bounty, prices are determined by the Secondary Admin.  
 
-The Meta % is an added commission that an Admin earns for processing a task claim, which is carried out by either the Bounty's Primary Admin, or its Secondary Admin.  For example, under 10% commission, an approved 10 DASH Task yields 10 DASH for the user completing the task, and 1 DASH for the Admin processing the claim, either the Primary Admin (most cases) or the Secondary Admin (when the Primary Admin completes the task and claims its reward).
+Users may negotiate the Task reward amount with the Bounty Admin before requesting a reservation or making a claim or request to renegotiate if there are changes in the scope or circumstances surrounding the production of the task by the user.
+
+The Incubator operates on the principle of a free marketplace of users competing to produce valuable output for Dash for rewards in Dash.   As such, Admins will approach price determination when defining Tasks as a process to find the best price that incentivizes certain work is completed and not based on how much time is estimated that it will take.  
+
+Price determination should involve a combination of factors including who is available to complete the Task and how specialized the work is, how much would reasonably be needed in fiat terms to compelete the task in the open market, how important the task is within the Incubator's current Strategy, and the available budget of the Incubator. 
+
+In terms of volatility of the Dash price, Tasks that are reserved in the system won't be repriced in the case of significant changes in the exchange rate of Dash, for example against USD, except in the case where the price has dropped below a point that is sufficient to not incentivize the user who reserved the task to complete it.  Unreserved Tasks however should reflect current the current Dash price, for example new Project and Service Tasks and all Job tasks.
+
+Each type of Task offered by the Incubator has limits on the min/max rewards an Admin may set, to maintain granularity on Task management which are listed below along with the types of output each Task type relates to.
+
+The Meta % is an added commission that an Admin earns for processing a task claim, which is carried out by either the Bounty's Primary Admin, or its Secondary Admin.  For example, under 10% commission, an approved 10 DASH Task yields 10 DASH for the user completing the task, and 1 DASH for the Admin processing the claim.
 
 <table>
   <tr>
