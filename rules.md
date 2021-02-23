@@ -704,6 +704,13 @@ Neither can the PO spend funds arbitrarily; All transactions from the Incubator 
 
 Combined with the fact that all information in the Incubator is open-source and publicly auditable, the goal is to decentralize decisions on how to spend funds within the Incubator by empowering Admins to fund their own projects and provide the means for their performance to be fully obvservable and quantified, and not centralized decision making by control of funds by the PO, enabling a productive and scalable organizational structure.
 
+## 4.6 Governance
+
+Admins are responsible for Governance of the Incubator which is controlled by defining the terms in this Rules document, which ultimately determine the criteria for approving Tasks by which all rewards are paid.
+
+Governance decisions are implemented as updates to these Rules, which require a quorum of Admins to approve (51%).
+
+Changes to these Rules should be an open process where Admins and Users are free to comment and discuss the implications before an update is published, for example via a PR on Github.
 
 # 5 Funding
 
