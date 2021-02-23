@@ -97,7 +97,7 @@ All source code (for projects the Incubator funds or the Incubator code itself) 
 
 There aren’t any fixed costs, employees or official representatives required for the Incubator to operate. There is no  organizational body to speak of, just users interacting with the Protocol defined in this document, and using the Incubator software. Instead, any work in developing the App itself or for it’s infrastructure, management or service provision, are offered as Bounties within the App that can be completed by anyone with the right skills and reputation.
 
-App management, strategy, and roadmap, are decided by quorums of Admin users who are community members with positive reputations of past contribution. They are assigned greater rights to administer the App’s usage and govern its development and strategy.  Currently the Proposal Owner for the App's funding proposals retains overall control of decision making but this will be decentralized once V1 of the App is mature.  
+App management, strategy, and roadmap, are decided by Admin users who are community members with positive reputations of past contributions to Dash. They are assigned greater rights to administer the App’s usage and govern its development and strategy.  The Proposal Owner for Incubator's funding proposals to the Dash Network is responsible for mediating the election and removal of users as Admins and ensuring that they and their users adhere to the Rules defined in this document, which is a role that should be decentralized later in the Incubator's roadmap as and when the Dash protocol allows.  
 
 ## 1.6 Licensing
 
@@ -690,12 +690,19 @@ For example, if a Task Reward is 1 Dash and the Admin Reward is fixed at 10%, th
 
 To receive rewards Admins must enter in the additional info in the Claim Awards List inline with each user’s Task claim, stating their name, Dash address and the reward amount (auto calculated).  The txid for the transaction should be pasted by the Admin who sends it.
 
+## 4.5 Proposal Owner
 
-## 4.5 Governance
+The Proposal Owner (PO) is the Admin user who manages the stream of proposals to the Dash Network to fund the Incubator that are submitted on a quarterly basis starting each February.
 
-Currently Admins are appointed by the Incubator’s Proposal Owner on Dash who is an Admin with veto permissions on other Admin decisions and has responsibility for maintaining these App Rules and payment of Rewards from the Proposal address.
+In addition to a normal Admin role, the PO is responsible for electing Admins and ensuring that they (and their users) adhere to the Rules defined in this document.
 
-The goal is to move to full decentralized decision making by Admins with rules for elections, removal, decisions (such as altering Rules).
+The PO has the additional responsiblity to handle custody of raised funds and payments from the Incubator wallet, which may only be for the purpose of awarding Task claims approved by the Admins with everything tracked publicly in the Incubator accounts.
+
+With this structure, the PO is not free to interfere with decisions on how Admins choose to spend funds except in cases where that would contravine the Rules the Admins collectively agreed in this document.
+
+Neither can the PO spend funds arbitrarily; All transactions from the Incubator wallet must be tracked to user's Claims on Tasks approved by an Admin in the system.
+
+Combined with the fact that all information in the Incubator is open-source and publicly auditable, the goal is to decentralize decisions on how to spend funds within the Incubator by empowering Admins to fund their own projects and provide the means for their performance to be fully obvservable and quantified, and not centralized decision making by control of funds by the PO, enabling a productive and scalable organizational structure.
 
 
 # 5 Funding
