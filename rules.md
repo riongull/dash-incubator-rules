@@ -465,6 +465,8 @@ Admins can approve any Concept that is clearly defined, within budget and inline
 
 The user who creates a Concept has 24hrs of exclusive privilege to request to reserve the corresponding Specification Tasks once the Bounty is moved to the Specification List, after which time it is open to anyone.
 
+Note that when Bounties created from a Concept become large, it's possible to split out work relating to the Concept across several bounties that share the same initial Concept, although a Concept Reward is only paid on the first Bounty created.
+
 ### 3.1.1 Proposing a new Concept
 
 To propose a new Concept:
