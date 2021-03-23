@@ -383,7 +383,7 @@ The Meta % is an added commission that an Admin earns for processing a task clai
    </td>
    <td>Valid Specification
    </td>
-   <td>1 Dash
+   <td>0.5 Dash
    </td>
    <td>10%
    </td>
