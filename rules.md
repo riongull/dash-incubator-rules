@@ -17,7 +17,7 @@ This document is a protocol that defines the structure and operations of the [Da
 5. [Funding](#5-funding)
 6. [Resources](#6-resources)
 7. [Roadmap](#7-roadmap)
-
+8. [Stakeholders](#8-stakeholders)
 # 1 Introduction
 
 ## 1.1 Overview
@@ -800,3 +800,13 @@ Three further versions of the App are planned leading to the implementation as a
    </td>
   </tr>
 </table>
+
+# 8 Stakeholders
+
+For some bounties, Admins may wish to regularly solicit the views of subject area experts, Dash Core Group developers, or other key stakeholders as part of the decision making process when defining bounty tasks. Whilst bounty adminsitration remains under the absolute control of the Primary Admin, a record of these Stakeholders, the nature of their interest, and the circumstances under which they should be consulted, may be added to the Bounty data.
+
+No reward may be claimed by Stakeholders for their activity on the Bounty, other than when defined as part of a Bounty Task in line with these rules. 
+
+## 8-1 Implementation in Trello
+
+When using the Trello board system, Stakeholders can be added to the Bounty Card as 'Members': a custom text field, "Additonal Stakeholders" will idenitify the Members' usernames, to distinguish them from primary and secondary admins, and include the additional information on the context for their involvement.
