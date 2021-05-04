@@ -39,11 +39,11 @@ Our vision for Dash is to become the number 1 Cryptocurrency for every-day payme
 
 [Admins](#4-admins) will allocate funding in support of our [Dash Vision](#12-dash-vision) using the following priorities, in order of highest importance first.
 
-1. Funding and kickstarting the development of dApps on Dash Platform
+1. Funding and kickstarting the development of dApps and user adoption of Dash Platform to grow Dash adoption
 2. Prioritizing Social, Video, E-commerce, Retail, Identity Security, Payments, P2P commerce dApps
 3. Funding development that improves onboarding for Platform users
 4. Funding development that improves and sustains the Incubator itself
-5. Kickstarting user growth on Platform
+5. Enabling and promoting user growth and adoption of Dash as a mainstream fiat currency payments alternative
 6. Funding Protocol development to support and implement the Incubator's Strategy when needed
 7. Funding the development of tools and resources that aid developers, users and providers of Dash Platform
 8. Funding promotion of Platform related features and dApps to developers and end-users
@@ -199,7 +199,7 @@ Incubator is a pure-Dash fund meaning all rewards for approved Claims are awarde
 
 Each type of [Task](#24-tasks) offered by the Incubator has limits on the min/max rewards an Admin may [price](#433-pricing-tasks) on a Task as defined below.
 
-The Admin % is an added commission that an Admin earns for Approving a Claim on a Task when it's Awarded, plus a [commission bonus](#44-commission-bonuses) based on the Admin's level of activity.
+The Admin % is an added commission that an Admin earns for Approving a Claim on a Task when it's Awarded, plus a [commission bonus](#441-commission-bonuses) based on the Admin's level of activity.
 
 ### 2.6.1 Price List
 
@@ -239,7 +239,7 @@ The Admin % is an added commission that an Admin earns for Approving a Claim on 
    </td>
    <td>QA Complete
    </td>
-   <td>0.1-15 Dash
+   <td>0.1-20 Dash
    </td>
    <td>10% - 15%
    </td>
@@ -265,20 +265,6 @@ The Admin % is an added commission that an Admin earns for Approving a Claim on 
    </td>
   </tr>
 </table>
-
-### 2.6.2 Reward Delegation
-
-In some cases, Contributors or Admins in the Incubator wish to decline rewards for various reasons.
-
-Although it may seem counter-intuitive, declining rewards is not possible in the App because rewards and the incentives they provide are the life-blood of how Incubator maintains a high level of creativity, productivity, and quality of output, and how we track and account for all work completion.
-
-For this reason, we introduced the ability to Delegate rewards, which enables users to have rewards they would have earned awarded to a 3rd party, which can be for example a charity or some other worthy cause they select.  
-
-This means the user still has an incentive to interact and produce quality output within the Incubator's incentive-driven framework.
-
-Delegation simply involves assigning a 3rd party user as the recipient of the Dash award during the claims process.
-
-> In Trello, to delegate a reward, insert the username of the user who should receive the reward instead of a Dash address.  For Admin, enter the delegated payment address in the Awarded Claims Sheet 
 
 # 3 Contributing
 
@@ -323,11 +309,23 @@ Once you have completed the work for a Task you can make a [Claim](#25-claims) f
 
 1. Link to the source for the tasks output (specific PR or commit for Github code)
 2. Link to any deploy links relevant to the output (e.g. a URL for a website)
-3. Specify a valid Dash address to receive the reward, or the username of someone you want to [delegate](#262-reward-delegation) your reward to.
+3. Specify a valid Dash address to receive the reward, or set to [NULL](#341-null-claims) to decline the reward.
 
 Once your Claim has been created it will [processed](#435-processing-task-claims) by an admin.
 
 > To create a Claim on Trello, leave a comment on the Bounty's [Trello Card](https://trello.com/b/FPJzDcok/dash-incubator-app) specifying the number and type of the Task you are claiming, along with the source links and your Dash address
+
+### 3.4.1 Null Claims
+
+In some cases, users wish to decline rewards for some reason.
+
+This is strongly discourage as incentives are how Incubator maintains a high level of creativity, productivity, and quality of output, and Claims themselves are how we track and account for work completion in the App.
+
+However, to support the requirement, we introduced the option to create a Null Claim.
+
+Therefore users who wish to decline rewards still need to make Claim to signify and enable tracking of a Task's completion, but they can set the claim's Dash address to 'NULL' to signify that the actual reward is declined and therefore won't be awarded.
+
+> To create a Null Claim in Trello, simply enter the term 'NULL' in place of a Dash address on the relevant [Claim comment](#42-claiming-tasks).
 
 # 4 Admins
 
@@ -338,12 +336,6 @@ As all work (and spending) is structured as a Bounty within the Incubator, and B
 Admins are peers, each with control of their own share of the Incubator's funds that they can use to create and manage bounties that incentivize Contributors to produce output for the Incubator.
 
 Admins have additional rights to appoint other Admins and to maintain the Rules defined in this document, which define all aspects of how the Incubator should operate, which they are each responsible for implementing correctly.
-
-Admins are incentivized via a baseline reward as a % commission on all Claims that they award on Bounty Tasks that they own, using the rates defined in the [Price List](#26-rewards), plus additional [commision bonuses](#44-commission-bonuses) for the most active Admins.
-
-Admins can earn additional rewards by completing Bounty Tasks themselves, provided they are defined and approved by another Admin, in other words, Admin's can't set and price their own work, but they can set and manage work for each other if needed.
-
-Admin rewards for commission on tasks don't require formal claims, they are issued automatically to a Bounty Admin when the associated Tasks are awarded via the Awarded Claims List.
 
 > On Trello, the board is configured to only allow Admins to create and edit cards, including defining and assigning tasks to Board members. Any user can comment on cards to interact with Admins about the bounties they're managing.
 
@@ -494,7 +486,19 @@ Ultimately, decisions on whether some output meets the requirements specified in
 >
 >Admins must then enter the details into the [Awarded Claims List](https://docs.google.com/spreadsheets/d/1mhXlo4ylqWLLSYN4MGiLWlp7Gq3jrsDt0kB701dwMNU/edit#gid=0), filling in all columns and double checking the user’s payment address and reward amount, to enable the claim to be awarded.
 
-## 4.4 Commission Bonuses
+## 4.4 Admin Rewards
+
+Admins are incentivized via a baseline reward as a % commission on all Claims that they award on Bounty Tasks that they own, using the rates defined in the [Price List](#26-rewards), plus additional [commision bonuses](#441-commission-bonuses) for the most active Admins.
+
+Admins can earn additional rewards by completing Bounty Tasks themselves, provided they are defined and approved by another Admin, in other words, Admin's can't set and price their own work, but they can set and manage work for each other if needed.
+
+Admin rewards for commission on tasks don't require formal claims, they are issued automatically to a Bounty Admin when the associated Tasks are awarded via the [Awarded Claims List](https://docs.google.com/spreadsheets/d/1mhXlo4ylqWLLSYN4MGiLWlp7Gq3jrsDt0kB701dwMNU/edit#gid=0).
+
+Note that Admins can also opt to decline rewards by creating a [Null Claim](#341-null-claims) on their commision within a Task Claim.
+
+> To set a Null Claim on their Commission Reward, an Admin should enter their Dash address as 'NULL' in the Claim in the [Awarded Claims List](https://docs.google.com/spreadsheets/d/1mhXlo4ylqWLLSYN4MGiLWlp7Gq3jrsDt0kB701dwMNU/edit#gid=0)
+
+### 4.4.1 Commission Bonuses
 
 Each individual Admin's commission is variable based on the number of [Task Claims](#25-claims) they Approved in the previous 30 days (including "today"). There are 3 Tiers of commissions an Admin can earn: 10%, 12%, 15%
 
