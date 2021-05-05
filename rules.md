@@ -19,6 +19,8 @@ View [RULES HISTORY](https://github.com/dashincubator/dash-incubator-app/commits
 
 [Dash Incubator](https://rules.dashincubator.app/) is an open-source, blockchain funded Application that redistributes Dash issued from Superblocks to users who complete [Bounties](#2-bounties) proposed by the Dash community.
 
+The Incubator uses its own micro-incentive based [Bounty](#2-bounties) system to fund the end-to-end production of a wide variety of projects, ranging from small [jobs](#22-bounty-types) such as bug bounties, to ongoing [services](#22-bounty-types) such as promotions or infrastructure provision, to mid-size development [projects](#22-bounty-types) such as dApps and development tools, to large development [programmes](#22-bounty-types) involving multiple products that need to be developed and launched together.
+
 Fund allocation and management is decentralized across [Admin](#4-admins) users who are incentivized with a % of the Dash they award on Bounties and a [PO role](#53-proposal-owner) responsible for fund management.
 
 The Incubator is classified as an [open-source DFO](#14-full-transparency), meaning that all internal operations of the Incubator are conducted in the public domain at all times.  This includes how work is proposed, selected, specified, developed, tested, approved, which users are completing or managing work, what rewards they are allocating or receiving and all internal decision making and governance.
@@ -29,11 +31,11 @@ All handling and allocation of Incubator [funds](#5-funds) can be publicly verif
 
 ## 1.1 Mission
 
-Our mission is to grow Dash's ease-of-use, utility and userbase, by finding, supporting and funding the most promising developers and entrepreneurs to build and grow Dash adoption.
+Our mission is to find, support and fund the most promising developers and entrepreneurs to build and grow the most innovative and user-friendly applications that maximize the usecases and utility of Dash.
 
 ## 1.2 Dash Vision
 
-Our vision for Dash is to become the number 1 Cryptocurrency for every-day payments in the world, by constantly innovating the fastest, easiest-to-use and most cost-effective trustless internet money at global scale.
+Our vision is to grow Dash to become the number 1 Cryptocurrency for every-day payments by constantly innovating the fastest, easiest-to-use and most cost-effective digital cash at global scale.
 
 ## 1.3 Strategy
 
@@ -62,7 +64,7 @@ To ensure that the Incubator's processes and information remain fully open-sourc
 2. All work systems and their data are public
 3. All work preparation and pricing is public
 4. All work output is public
-5. All people's work and rewards are public and verifable
+5. All people's work and rewards are public and verifiable
 6. All rules governing the Incubator and decisions on how to maintain those rules are public
 
 The only exception would be user credentials, i.e. their login passwords (which won't be needed when the Incubator App moves onto Dash Platform)
@@ -152,7 +154,7 @@ A Task is the basic unit-of-work in the Incubator and represents a unit of open-
 
 All work in the Incubator, and consequently any use of funds, is performed via completion of a Task by a user, or the management of that Task by an [Admin](#4-admins), within a specific Bounty.
 
-Tasks are defined by Admins and can completed by any user after [reserving](#33-reserving-tasks) the tasks with the Admin, or in the case of [Job](#22-bounty-types) tasks, completed without reservation.
+Tasks are defined by Admins and can be completed by any user after [reserving](#33-reserving-tasks) the tasks with the Admin, or in the case of [Job](#22-bounty-types) tasks, completed without reservation.
 
 Each Task must define some quantifiable Output (a document, commit, etc) that a user can produce to be eligible to [Claim](#26-claims) the specified reward.
 
@@ -442,7 +444,7 @@ The due-date is the date whereby if a [Claim](#26-claims) is not made for the Ta
 >
 > This information should be entered into the Task description in the following format:
 >
->```[taskId]) [taskDescription](AdminUsername)([amount] DASH)```
+>```[taskId][taskDescription](AdminUsername)([amount] DASH)```
 
 ### 4.3.2 Task Ownership
 
@@ -575,13 +577,13 @@ All funds will be received to the published [Incubator Wallet](#63-accounting) a
 
 The funds the PO requests from the Dash Network are purely to top-up the Incubator Wallet and increase the overall budget available to Admins to spend.
 
-Incubator is a pure-Dash fund meaning that rewards are denominated only in Dash.  Therefore any fluctuations in the fiat price of Dash will only reflect the pricing of new [Tasks](#25-tasks) by Admins and prior agreements made in Dash are not renegotiated or adjusted.
+Incubator is a pure-Dash fund meaning that rewards are denominated only in Dash.  Therefore any fluctuations in the fiat price of Dash will only reflect the pricing of new [Tasks](#25-tasks) by Admins and prior agreements made in Dash are not necessarily renegotiated or adjusted.
 
 ## 5.3 Proposal Owner
 
 The Proposal Owner (PO) is the [Admin](#4-admins) user who creates [Proposals](#64-proposals) to the Dash Network for and on behalf of the Incubator, and handles (but isn't liable for) custody and transactions of the Dash received on behalf of Admins.
 
-The PO agrees to use funds solely for the purposes of awarding Task Claims](#26-claims) that were approved by Admins and are inline with the Rules in this document.
+The PO agrees to use funds solely for the purposes of awarding [Task Claims](#26-claims) that were approved by Admins and are inline with the Rules in this document.
 
 The PO role is intended to be a temporary role, until the Incubator can be implemented as a fully decentralized dApp in future, with Proposal Dash awarded to a Contract on Dash Platform and distributed autonomously using code.
 
