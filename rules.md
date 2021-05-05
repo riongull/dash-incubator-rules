@@ -17,17 +17,17 @@ View [RULES HISTORY](https://github.com/dashincubator/dash-incubator-app/commits
 
 # 1 Dash Incubator
 
-[Dash Incubator](https://rules.dashincubator.app/) is an open-source, blockchain funded Application that redistributes Dash issued from Superblocks to users who complete [Bounties](#2-bounties) proposed by the Dash community.
+[Dash Incubator](https://dashincubator.app/) is an open-source, blockchain funded Application that redistributes [Dash](https://www.dash.org/) issued from [Superblocks](https://docs.dash.org/en/stable/governance/understanding.html) to users who produce open-source output that forwards our [Strategy](#13-strategy) in support of our [Dash Vision](#12-dash-vision).
 
-The Incubator uses its own micro-incentive based [Bounty](#2-bounties) system to fund the end-to-end production of a wide variety of projects, ranging from small [jobs](#22-bounty-types) such as bug bounties, to ongoing [services](#22-bounty-types) such as promotions or infrastructure provision, to mid-size development [projects](#22-bounty-types) such as dApps and development tools, to large development [programmes](#22-bounty-types) involving multiple products that need to be developed and launched together.
+The Incubator uses its own micro-incentive based [Bounty](#2-bounties) system to fund and manage the end-to-end delivery of a wide variety of projects [proposed](#21-concepts) by the community, ranging from small [jobs](#22-bounty-types) such as bug bounties, to ongoing [services](#22-bounty-types) such as promotions or infrastructure provision, to mid-size development [projects](#22-bounty-types) such as dApps and development tools, to large development [programmes](#22-bounty-types) involving multiple products that need to be developed and launched together.
 
-Fund allocation and management is decentralized across [Admin](#4-admins) users who are incentivized with a % of the Dash they award on Bounties and a [PO role](#53-proposal-owner) responsible for fund management.
+Fund allocation and management is decentralized across [Admin](#4-admins) users who are [incentivized](#44-admin-rewards) with a % of the Dash they award on Bounties and a [PO role](#53-proposal-owner) responsible for fund management.
 
-The Incubator is classified as an [open-source DFO](#14-full-transparency), meaning that all internal operations of the Incubator are conducted in the public domain at all times.  This includes how work is proposed, selected, specified, developed, tested, approved, which users are completing or managing work, what rewards they are allocating or receiving and all internal decision making and governance.
+The Incubator is classified as an [open-source DFO](#14-full-transparency) (Dash Funded Organization), meaning that all internal operations of the Incubator are conducted in the public domain at all times.  This includes how work is proposed, selected, specified, developed, tested, approved, which users are completing or managing work, what rewards they are allocating or receiving and all internal decision making and governance.
 
-All work produced by the Incubator, known as Output, including the Incubator App software itself is open-source and licensed under MIT License.
+All work produced by the Incubator, known as Output, including the Incubator App software itself, is open-source and licensed under MIT License.
 
-All handling and allocation of Incubator [funds](#5-funds) can be publicly verified down to user-task level via the [Dash Blockchain](#54-auditing) itself in realtime. 
+All handling and allocation of Incubator [funds](#5-funds) can be publicly verified down to [user-task](#25-tasks) level via the [Dash Blockchain](#54-auditing) in realtime. 
 
 ## 1.1 Mission
 
