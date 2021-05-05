@@ -464,13 +464,13 @@ If a Task has an unprocessed Claim for more than 5 days with no response to the 
 
 ### 4.3.3 Pricing Tasks
 
-Pricing Tasks in the Incubator takes a different approach to traditional methods of sourcing as it factors in externalities such as priority, time constraints, skills availability (or overheads due to lack of) and productivity incentives, whilst factoring out notions that ignore these externalities such as hourly-rate, market rate or salary-based arrangements don't necessarily achieve our goals at the speed we want or with the level of productivity we want to achieve.
+Pricing Tasks in the Incubator takes a different and more flexible approach to traditional methods of sourcing as it factors in externalities such as priority, time constraints, skills availability (or overheads due to sourcing additional resources) and productivity incentives, whilst factoring out notions that ignore these factors such as fixed hourly-rates, market-rates or salary-based arrangements that won't necessarily achieve our goals at the speed we want or with the level of productivity we want to achieve for the value we want to deliver.
 
-For example, if Tasks are urgent or highly specialized and resources are not available, or Tasks have existed for a long time without uptake, higher rewards should be set, including the option to offer rewards for promoting those Tasks and/or placing the necessary resources, which can result in reward levels above traditional "market rates" if those factors are ignore.
+For example, if Tasks are urgent or highly specialized and resources are not available, or Tasks have existed for a long time without uptake, higher rewards can be set to achieve uptake on the Tasks, including the option to offer rewards for promoting those Tasks and/or placing the necessary resources, which can result in reward levels above traditional "market rates" to deliver the output we want in the time needed.
 
-On the other hand, low priority tasks with multiple resources already on-boarded and available who could under-bid each other within the Incubator often provide output well below "market rates".
+On the other hand, low priority tasks with multiple resources already on-boarded and available who could under-bid each other and without time-constraints can often provide output well below "market rates".
 
-In other words, Tasks should be priced via a process to discover what is the minimum reward level needed to incentivize a Contributor to deliver something within the needed timeframe and factoring in externalities such as the cost of delays in sourcing / onboarding alternative resources. 
+In other words, Tasks should be priced via a process to discover what is the minimum reward level needed to incentivize a Contributor to deliver something and deciding whether externalities such as needing to find & onboard the necessary resources or meet a certain deadline need to be factored in based on the Bounty's priority.
 
 Fiat prices should be taken into consideration when a Task is created, but Tasks shouldn't be repriced if the fiat value changes unless not doing so would prevent completion of the Task.
 
