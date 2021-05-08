@@ -17,13 +17,13 @@ View [RULES HISTORY](https://github.com/dashincubator/dash-incubator-app/commits
 
 # 1 Dash Incubator
 
-[Dash Incubator](https://dashincubator.app/) is an open-source, blockchain funded Application that redistributes [Dash](https://www.dash.org/) issued from [Superblocks](https://docs.dash.org/en/stable/governance/understanding.html) to users who produce open-source output that forwards our [Strategy](#13-strategy) in support of our [Dash Vision](#12-dash-vision).
+[Dash Incubator](https://dashincubator.app/) is an open-source, blockchain funded Application that redistributes Dash issued from Superblocks to users who complete [Bounties](#2-bounties) proposed by the Dash community.
 
 The Incubator uses its own micro-incentive based [Bounty](#2-bounties) system to fund and manage the end-to-end delivery of a wide variety of projects [proposed](#21-concepts) by the community, ranging from small [jobs](#22-bounty-types) such as bug bounties, to ongoing [services](#22-bounty-types) such as promotions or infrastructure provision, to mid-size development [projects](#22-bounty-types) such as dApps and development tools, to large development [programmes](#22-bounty-types) involving multiple products that need to be developed and launched together.
 
-Fund allocation and management is decentralized across [Admin](#4-admins) users who are [incentivized](#44-admin-rewards) with a % of the Dash they award on Bounties and a [PO role](#53-proposal-owner) responsible for fund management.
+Fund allocation and management is decentralized across [Admin](#4-admins) users who are incentivized with a percentage of the Dash they award on Bounties and a [PO role](#53-proposal-owner) responsible for fund management.
 
-The Incubator is classified as an [open-source DFO](#14-full-transparency) (Dash Funded Organization), meaning that all internal operations of the Incubator are conducted in the public domain at all times.  This includes how work is proposed, selected, specified, developed, tested, approved, which users are completing or managing work, what rewards they are allocating or receiving and all internal decision making and governance.
+The Incubator is classified as an [open-source Dash Funded Organization (DFO)](#14-full-transparency), meaning that all internal operations of the Incubator are conducted in the public domain at all times.  This includes how work is proposed, selected, specified, developed, tested, approved, which users are completing or managing work, what rewards they are allocating or receiving and all internal decision making and governance.
 
 All work produced by the Incubator, known as Output, including the Incubator App software itself, is open-source and licensed under MIT License.
 
@@ -35,7 +35,7 @@ Our mission is to find, support and fund the most promising developers and entre
 
 ## 1.2 Dash Vision
 
-Our vision is to grow Dash to become the number 1 Cryptocurrency for every-day payments by constantly innovating the fastest, easiest-to-use and most cost-effective digital cash at global scale.
+Our vision is to grow Dash to become the number one cryptocurrency for everyday payments by constantly innovating the fastest, easiest-to-use and most cost-effective digital cash at global scale.
 
 ## 1.3 Strategy
 
@@ -44,11 +44,11 @@ Our vision is to grow Dash to become the number 1 Cryptocurrency for every-day p
 1. Innovating ways to enable and promote user growth and new usecases for Dash as a mainstream fiat currency payments alternative
 2. Funding and kickstarting the development of dApps and integrations with Dash Platform to grow Dash's online and Web 3 usecases as the primary route to mainstream adoption
 3. Prioritizing Social, Video, E-commerce, Retail, Identity Security, Payments, P2P commerce dApps
-4. Funding development that improves onboarding for Platform users
+4. Funding development that improves onboarding for Dash users
 5. Funding development that improves and sustains the Incubator itself
 6. Funding Protocol development to support and implement the Incubator's Strategy when needed
 7. Funding the development of tools and resources that aid developers, users and providers of Dash Platform
-8. Funding promotion of Platform related features and dApps to developers and end-users
+8. Funding promotion of Dash Platform related features and dApps to developers and end-users
 9. Funding the raising of Proposals to support and implement the Incubator’s Strategy
 10. Kickstarting Incubator forks with synergistic Strategies to improve competition and decentralization within the DFO ecosystem
 
@@ -73,13 +73,13 @@ The only exception would be user credentials, i.e. their login passwords (which 
 
 There are several levels to classification of Incubator App users as follows:
 
-- Users - anyone who accesses the Incubator App or it's underlying data
+- Users - anyone who accesses the Incubator App or its underlying data
 - Members - any user who has signed up to create an account on the App
-- [Contributors](#3-contributing) - members who have been awarded at least one [Task Claim](#26-claims)
-- [Admins](#4-admins) - contributors with rights to create and manage Bounties, and earn commission from Task rewards
-- [PO](#53-proposal-owner) - the Admin who is designated to raise Proposals to the Dash network on behalf of the Incubator 
+- [Contributors](#3-contributing) - Members who create output for the Incubator
+- [Admins](#4-admins) - Members with rights to create and manage Bounties, and earn commission from Task rewards
+- [Proposal Owner (PO)](#53-proposal-owner) - an Admin who is designated to raise Proposals to the Dash network on behalf of the Incubator 
 
-> Currently all Users can be found as the members of our [Trello board](https://trello.com/b/FPJzDcok/dash-incubator-app)
+> Currently all Members can be found as the members of our [Trello board](https://trello.com/b/FPJzDcok/dash-incubator-app)
 
 ## 1.6 Network Contract
 
@@ -89,21 +89,21 @@ When coupled with Incubator's [full transparency](#14-full-transparency) policy,
 
 We refer to the transparent implementation of the terms defined in this document in return for the funding provided from Dash Network as the Network Contract.
 
-The Incubator is required to abide by the Network Contract at all times, however, it is not required to abide by any contracts between 3rd parties to which the Incubator was not subject to the agreement or consideration of.
+The Incubator is required to abide by the Network Contract at all times.
 
-The authoritive source for the Rules are contained in a single document hosted on [Github](https://github.com/DashIncubator/dash-incubator-rules/blob/master/rules.md), with updates to the Rules (enacted as merged commits to the master branch) taking effect immediately.
+The authoritative source for the Rules are contained in a single document hosted on [Github](https://github.com/DashIncubator/dash-incubator-rules/blob/master/rules.md), with updates to the Rules (enacted as merged commits to the master branch) taking effect immediately.
 
 ## 1.7 Legal
 
 The Incubator is an open-source application and not a legal entity and as such doesn’t own any assets, including any rights to any output, nor does the Incubator apply any restrictions on contributor's usage of their own Task output, apart from the requirement that all output must be open-sourced under MIT license.
 
-The only funding the Incubator App receives is in the form of Dash tokens issued directly from the Dash blockchain, which it redistributes to users provide verifiable open-source output for predefined tasks approved by Admins who agree to operate in accordance with the Rules defined in this document.
+The only funding the Incubator App receives is in the form of Dash tokens issued directly from the Dash blockchain, which it redistributes to users who provide verifiable open-source output for predefined tasks approved by Admins, who agree to operate in accordance with the Rules defined in this document.
 
 The Incubator does not handle, hold or pay fiat currency and all rewards are issued in Dash tokens as incentives for creating some open-source output, at the sole discretion of Incubator Admins, and without any agreement or action to purchase or procure any assets, intellectual property or labor.
 
 # 2 Bounties
 
-A Bounty in the Incubator means a collection of work that can be completed by contributors for a reward, such as development or promotion for Dash or of the Incubator itself.
+A Bounty in the Incubator means a collection of work that can be completed by contributors for a reward, such as development or promotion of Dash or of the Incubator itself.
 
 Bounties are first proposed as Concepts by the community, and there are four [types](#22-bounty-types) of Bounty that can be funded, each containing a series of [Tasks](#22-bounty-types) that are managed by the Bounty's [Admin](#4-admins), who earn a % commission of all rewards that the Bounty generates.
 
@@ -124,7 +124,7 @@ Once accepted, the user who created the Concept is automatically assigned as a [
 When a Bounty is created from a [Concept](#21-concepts) by an [Admins](#4-admins), they assign one of four types for the new Bounty that determine how work will be structured:
 
 - **Projects** develop products such as a decentralized app built on Dash (dApps), tools for the community or improvements to the Dash Protocol itself.
-- **Services** provide ongoing work that involves provision of some service, such as website hosting, code maintenance, or a recurring servicing the Incubator itself.
+- **Services** provide ongoing work that involves provision of some service, such as website hosting, code maintenance, or a recurring requirement for servicing the Incubator itself.
 - **Jobs** are one-off pieces of work, such as finding bugs or fixing a github issue.
 - **Programmes** are collections of Project, Service or Job Bounties that coordinate large pieces of work.
 
@@ -140,7 +140,7 @@ Each Bounty can be set to have one of the following Statuses at any time:
 
 ## 2.4 Bounty Stakeholders
 
-For some bounties, Admins may wish to regularly solicit the views of subject area experts, Dash Core Group developers, or other key stakeholders as part of the decision making process when defining bounty tasks. 
+For some bounties, Admins may wish to regularly solicit the views of subject area experts or other key stakeholders as part of the decision making process when defining bounty tasks. 
 
 Whilst bounty administration remains under the Admins of the bounty, a record of these Stakeholders, the nature of their interest, and the circumstances under which they should be consulted, may be added to the Bounty data.
 
@@ -337,7 +337,7 @@ This is strongly discouraged as incentives are how Incubator maintains a high le
 
 However, to support the requirement, we introduced the option to create a Null Claim.
 
-Therefore users who wish to decline rewards still need to make Claim to signify and enable tracking of a Task's completion, but they can set the claim's Dash address to 'NULL' to signify that the actual reward is declined and therefore won't be awarded.
+Therefore users who wish to decline rewards still need to make a Claim to signify and enable tracking of a Task's completion, but they can set the claim's Dash address to 'NULL' to signify that the actual reward is declined and therefore won't be awarded.
 
 > To create a Null Claim in Trello, simply enter the term 'NULL' in place of a Dash address on the relevant [Claim comment](#42-claiming-tasks).
 
@@ -384,7 +384,7 @@ Admins must judge that Concepts they wish to Accept meet all of the following cr
 
 Bounties are created exclusively by Admins who [Accept](#435-processing-task-claims) a community-submitted Concept and consequently receive [Ownership](#422-bounty-ownership) of the Bounty.
 
-Admins must ensure the following information is correctlt configured on new Bounties that they create:
+Admins must ensure the following information is correctly configured on new Bounties that they create:
 
 1. The creator of the Bounty is set as the [Owner](#422-bounty-ownership) Admin of the Bounty
 2. The correct [Type](#22-bounty-types) for the Bounty is selected field (either Project, Specification, Job or Programme)
@@ -407,7 +407,7 @@ The Bounty Owner may transfer ownership to another Admin at any time.
 
 ### 4.2.3 Secondary Admins
 
-The Bounty Owner can optionally appoint a Secondary Admin to the Bounty, enabling a maximum of two Admins to manage a bounty at one time.
+The Bounty Owner can optionally appoint a Secondary Admin (Secondary) to the Bounty, enabling a maximum of two Admins to manage a bounty at one time.
 
 Secondaries cannot edit the Bounty's details but can create Tasks that they [own](#432-task-ownership) within the Bounty independently from the Bounty Owner's Tasks, and process Claims on those and receive their Admin Reward.
 
@@ -436,7 +436,7 @@ When creating a Task, the Admin sets the Description, which must provide enough 
 The due-date is the date whereby if a [Claim](#26-claims) is not made for the Task, the Admin has the option to cancel the task or cancel any reservation at the Admin's discretion.
 
 > When defining a Task in Trello, the Admin will chose the correct Checklist for the task type, and specify the following information:
->1. A Task ID, which is the sequential number of the Task in the relevant Checklist
+>1. A Task number, which is the sequential number of the Task in the relevant Checklist
 >2. A Description, summarising the broad requirements by a short definition is needed, and a link to a Specification to provide further detail if needed.
 >3. An amount of Dash for the Reward.  This can be [negotiated](#433-pricing-tasks) between the Admin and prospective users
 >4. The name of the Admin who created the Task (i.e. the [Task Owner](#432-task-ownership))
@@ -444,7 +444,7 @@ The due-date is the date whereby if a [Claim](#26-claims) is not made for the Ta
 >
 > This information should be entered into the Task description in the following format:
 >
->```[taskId][taskDescription](AdminUsername)([amount] DASH)```
+>```[taskNumber][taskDescription](AdminUsername)([amount] DASH)```
 
 ### 4.3.2 Task Ownership
 
