@@ -39,22 +39,31 @@ Our vision is to grow Dash to become the number one cryptocurrency for everyday 
 
 ## 1.3 Strategy
 
-[Admins](#4-admins) will allocate funding in support of our [Dash Vision](#12-dash-vision) using the following priorities, in order of highest importance first.
+The Incubator's Strategy is defined as the set of [criteria](131-funding-criteria) that defines the types of [Bounties](#2-bounties) that [Admins](#4-admins) can fund, coupled to a [Roadmap](#132-roadmap) that defines priorities that Admins use to allocate and prioritize resources across Bounties, to ensure that resources are focused effectively in support of our [Mission](#11-mission) and [Dash Vision](#12-dash-vision).
 
-1. Innovating ways to enable and promote user growth and new usecases for Dash as a mainstream fiat currency payments alternative
-2. Funding and kickstarting the development of dApps and integrations with Dash Platform to grow Dash's online and Web 3 usecases as the primary route to mainstream adoption
-3. Prioritizing Social, Video, E-commerce, Retail, Identity Security, Payments, P2P commerce dApps
-4. Funding development that improves onboarding for Dash users
-5. Funding development that improves and sustains the Incubator itself
-6. Funding Protocol development to support and implement the Incubator's Strategy when needed
-7. Funding the development of tools and resources that aid developers, users and providers of Dash Platform
-8. Funding promotion of Dash Platform related features and dApps to developers and end-users
-9. Funding the raising of Proposals to support and implement the Incubator’s Strategy
-10. Kickstarting Incubator forks with synergistic Strategies to improve competition and decentralization within the DFO ecosystem
+## 1.3.1 Funding Criteria
 
-Work that is not aligned to these priorities, or would be done at the expense of higher priority work, will not be funded by the Incubator.
+[Admins](#4-admins) may fund [Bounties](#2-bounties) that meet the following criteria:
 
-In some cases where activities are borderline in terms of alignment with the Incubator's strategy, Admins may choose to kickstart certain projects, which means initiating them, but include a plan to hand them off to 3rd parties to fund and monetize their longer-term development, including potentially raising individual Proposals to accomplish that. 
+1. Funding or kickstarting the development of dApps on Dash Platform that grow Dash's online and Web 3 usecases, ease-of-use and utility.
+2. Funding the dApps that are focused on P2P commerce, E-commerce, Retail, Payments, remittance, or any kind of monetization or tokenization that increases the economic usage of Dash as a priority.
+3. Funding the development and provision of tools and resources that aid developers, users and providers of Dash Platform.
+4. Funding development that improves onboarding for Dash users.
+5. Funding development that improves and sustains the Incubator itself.
+6. Funding Protocol development to support and implement the Incubator's Strategy when needed.
+7. Funding promotion of Dash Platform related features and dApps to developers and end-users.
+8. Funding development in other DFOs with synergistic Strategies where doing so will expedite, support or unblock resources or products upon which our Mission depends.
+9. Kickstarting initiatives that help to support and retain developers who are key to the Dash project in general.
+10. Kickstarting Incubator forks with synergistic Strategies to increase competition and decentralization within the DFO ecosystem.
+
+Bounties that don't meet any of these criteria won't be funded by the Incubator.
+
+> Kickstarting in Incubator means funding Bounties that initiate projects but include a plan to hand them off to 3rd parties to fund and monetize their longer-term development, including potentially raising individual Proposals to accomplish that. 
+
+## 1.3.2 Roadmap
+
+Our Roadmap is the list of priorities by which we allocate resources between [Bounties](#2-bounties) and is stated in the most recent [Proposal](#64-proposals).  
+
 
 ## 1.4 Full-Transparency
 
