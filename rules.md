@@ -58,7 +58,7 @@ The Incubator's Strategy is defined as the set of [criteria](131-funding-criteri
 
 Bounties that don't meet any of these criteria won't be funded by the Incubator.
 
-> Kickstarting in Incubator means funding Bounties that initiate projects but include a plan to hand them off to 3rd parties to fund and monetize their longer-term development, including potentially raising individual Proposals to accomplish that. 
+> The term Kickstarting is used in the Incubator to mean the funding of Bounties that initiate projects but include a plan to hand them off to 3rd parties to fund and monetize their longer-term development, including potentially raising individual Proposals to accomplish that. 
 
 ## 1.3.2 Roadmap
 
@@ -568,7 +568,7 @@ For example:
 
 Admins are responsible for Governance of the Incubator which is implemented via appointing or removing Admins, or updating these Rules.
 
-An Admin Quorum is required in both cases, which means that >= 51% agree (or <=49% don't object) to Admin appointments / removals or changes to the Rules.
+An Admin Quorum is required in both cases, which means that >= 50% agree (or <50% don't object) to Admin appointments / removals or changes to the Rules.
 
 # 5 Funds
 
@@ -584,7 +584,7 @@ When certain projects arise that do require specific additional funding, individ
 
 All funds will be received to the published [Incubator Wallet](#63-accounting) address(s) and will be pooled across proposals as a single rolling-budget available to Admins to allocate to Bounties.
 
-The funds the PO requests from the Dash Network are purely to top-up the Incubator Wallet and increase the overall budget available to Admins to spend.
+The funds the PO requests from the Dash Network are purely to increase the Incubator Wallet and increase the overall budget available to Admins to spend.
 
 Incubator is a pure-Dash fund meaning that rewards are denominated only in Dash.  Therefore any fluctuations in the fiat price of Dash will only reflect the pricing of new [Tasks](#25-tasks) by Admins and prior agreements made in Dash are not necessarily renegotiated or adjusted.
 
@@ -607,7 +607,7 @@ Before the full dApp implementation, and before fully decentralized mechanisms a
 
  If the Proposal Owner needs to exercise any of these rights, they must leave a comment (e.g. on Trello or Github depending on the action) detailing the action and explaining the reasons as to why an action was taken.
 
-The Proposal Owner can be replaced through a vote where at least 51% of Admins vote for a new Admin to be the PO.  If that occurs, the newly elected PO will assume all PO responsibilities and the existing PO will transfer all funds from the Proposal Wallet to a wallet controlled by the new PO.
+The Proposal Owner can be replaced through a vote where >50% of Admins vote for a new Admin to be the PO.  If that occurs, the newly elected PO will assume all PO responsibilities and the existing PO will transfer all funds from the Proposal Wallet to a wallet controlled by the new PO.
 
 > The Proposal Owner role is incentivized by a [Service Bounty](https://trello.com/c/pjOIKxyc/100-dash-incubator-proposal-owner) defined within the Incubator app itself.
 
