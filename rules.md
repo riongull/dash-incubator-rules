@@ -240,7 +240,7 @@ The Admin % is an added [commission reward](#44-admin-rewards) that an Admin ear
   <tr>
    <td>Concept Task
    </td>
-   <td>Valid Specification
+   <td>Accepted Concept
    </td>
    <td>0.5 Dash
    </td>
@@ -372,7 +372,7 @@ Bounties are created via the Acceptance of a user-submitted [Concept](#31-concep
  - Any Admin can Accept a new Concept but must first validate that it meets our [Concept Acceptance Criteria](#411-concept-acceptance-criteria)
  - Admins do not need permission from or consensus between other Admins to accept a Concept
  - Admins can submit new Concepts themselves, but need another Admin to Accept them.
- - Once a Concept is Approved, an implicit Claim for the Concept Task reward is considered to be approved automatically
+ - Once a Concept is Accepted, an implicit Claim for the Concept Task reward is considered to be approved automatically
 
 > - In Trello, Admins formally Accept a Concept by [creating a new Bounty](#421-creating-bounties) for the Concept and linking it in a reply to the user's comment on the [New Concept Card](https://trello.com/c/6XAuy9DW/94-request-new-concept) card.
 > - The Admin should also add an entry to the [Awarded Claims List](https://docs.google.com/spreadsheets/d/1mhXlo4ylqWLLSYN4MGiLWlp7Gq3jrsDt0kB701dwMNU/edit#gid=0), using the user's details and Dash address from the Concept they submitted
