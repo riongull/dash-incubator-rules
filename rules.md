@@ -568,7 +568,7 @@ For example:
 
 Admins are responsible for Governance of the Incubator which is implemented via appointing or removing Admins, or updating these Rules.
 
-An Admin Quorum is required in both cases, which means that >= 50% agree (or <50% don't object) to Admin appointments / removals or changes to the Rules.
+An Admin Quorum is required in both cases, which means that > 50% of voting Admins agree to Admin appointments / removals or changes to the Rules etc. Admins reserve the option to recuse themselves from voting by not registering a vote (within an agreed voting period) or selecting/commenting ‘Recuse’ against the vote itself.
 
 # 5 Funds
 
@@ -607,7 +607,7 @@ Before the full dApp implementation, and before fully decentralized mechanisms a
 
  If the Proposal Owner needs to exercise any of these rights, they must leave a comment (e.g. on Trello or Github depending on the action) detailing the action and explaining the reasons as to why an action was taken.
 
-The Proposal Owner can be replaced through a vote where >50% of Admins vote for a new Admin to be the PO.  If that occurs, the newly elected PO will assume all PO responsibilities and the existing PO will transfer all funds from the Proposal Wallet to a wallet controlled by the new PO.
+The Proposal Owner can be replaced through a vote for a new Admin to be the PO as per the voting criteria defined in Section 4.5 - Governance.  If that occurs, the newly elected PO will assume all PO responsibilities and the existing PO will transfer all funds from the Proposal Wallet to a wallet controlled by the new PO.
 
 > The Proposal Owner role is incentivized by a [Service Bounty](https://trello.com/c/pjOIKxyc/100-dash-incubator-proposal-owner) defined within the Incubator app itself.
 
