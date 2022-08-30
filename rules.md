@@ -61,7 +61,7 @@ There are several types of Incubator users, as follows:
 - Users - anyone who accesses the Incubator or its underlying data
 - Members - any user who has signed up to the Incubator
 - [Contributors](#3-contributing) - Members who create output for the Incubator
-- [Admins](#4-admins) - Members with rights to create and manage Bounties
+- [Admins](#4-admins) - Members with rights to manage Bounties accepted by Strategists.
 - [Strategists](#46-strategists) - Admins who manage and report on Budgets
 - [Lead Strategist](#47-lead-strategist) - The strategist who raises Proposals to the Dash network on behalf of the Incubator 
 
